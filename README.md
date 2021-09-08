@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamdineshrajan
+- 👋 Hi, I’m DINESH RAJAN
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning PG in Data Analytics
 - 📫 How to reach me in Linkedin https://www.linkedin.com/in/iamdineshrajan
