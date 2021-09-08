@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iamdineshrajan
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning PG in Data Analytics
+- 📫 How to reach me in Linkedin https://www.linkedin.com/in/iamdineshrajan
+- I am currently looking for an Internship in Data Analytics Field.
